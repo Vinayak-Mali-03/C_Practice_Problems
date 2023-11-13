@@ -1,6 +1,6 @@
 /**
  * @file 062_To_Find_Pait_Of_Numbers.c
- * @author Vinayak Mali 
+ * @author Vinayak mali 
  * @brief To find the pair of numbers in given array
  * @version 0.1
  * @date 2023-11-12
